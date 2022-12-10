@@ -1,4 +1,4 @@
-# Object-Detection---Yolo-OpenCV
+#Object-Detection---Yolo-OpenCV
 
 #Support for running YOLO/DarkNet on OpenCV
 pip install numpy opencv-python
